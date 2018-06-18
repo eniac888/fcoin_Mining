@@ -1,4 +1,3 @@
-# fcoin_Mining
 use method:
 
 1.install the python-3.6.1-amd64.exe
